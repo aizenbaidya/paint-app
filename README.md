@@ -2,7 +2,9 @@
 
 This project is an interactive paint application inspired by Microsoft Paint, written in C++ and made with OpenGL. It has a simple UI and provides essential tools and features for painting.
 <p align="center">
-    <img src="https://github.com/aizenbaidya/OpenGL-Paint-Application/assets/106003703/daef64bf-2aa2-4db3-b641-85d397f237ba" width="330" height="356"><br />
+    <picture>
+        <img src="https://github.com/aizenbaidya/OpenGL-Paint-Application/assets/106003703/daef64bf-2aa2-4db3-b641-85d397f237ba" width="330" height="356">
+    </picture><br />
     Drawing with shapes and scribbles.
 </p>
 
